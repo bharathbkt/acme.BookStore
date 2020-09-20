@@ -1,35 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.HttpApi/Acme.BookStore.HttpApi.csproj": {}
+    "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj": {}
   },
   "projects": {
-    "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj": {
+    "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
         "projectName": "Acme.BookStore.Application.Contracts",
-        "projectPath": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj",
-        "packagesPath": "/Users/bharaththabati/.nuget/packages/",
-        "outputPath": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/",
+        "projectPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Bharath\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/bharaththabati/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Bharath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj": {
-                "projectPath": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj"
+              "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
+                "projectPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj"
               }
             }
           }
@@ -84,29 +88,33 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj": {
+    "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
         "projectName": "Acme.BookStore.Domain.Shared",
-        "projectPath": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj",
-        "packagesPath": "/Users/bharaththabati/.nuget/packages/",
-        "outputPath": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/",
+        "projectPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\Acme.BookStore.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Bharath\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/bharaththabati/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Bharath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -176,36 +184,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.HttpApi/Acme.BookStore.HttpApi.csproj": {
+    "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.HttpApi/Acme.BookStore.HttpApi.csproj",
+        "projectUniqueName": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj",
         "projectName": "Acme.BookStore.HttpApi",
-        "projectPath": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.HttpApi/Acme.BookStore.HttpApi.csproj",
-        "packagesPath": "/Users/bharaththabati/.nuget/packages/",
-        "outputPath": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.HttpApi/obj/",
+        "projectPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.HttpApi\\Acme.BookStore.HttpApi.csproj",
+        "packagesPath": "C:\\Users\\Bharath\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.HttpApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/bharaththabati/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Bharath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj": {
-                "projectPath": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj"
+              "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.Application.Contracts\\Acme.BookStore.Application.Contracts.csproj"
               }
             }
           }
@@ -250,12 +262,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

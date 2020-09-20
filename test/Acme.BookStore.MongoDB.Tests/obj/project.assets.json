@@ -3834,7 +3834,10 @@
         },
         "runtime": {
           "bin/placeholder/Acme.BookStore.Domain.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Acme.BookStore.Domain.Shared/1.0.0": {
         "type": "project",
@@ -3876,7 +3879,10 @@
         },
         "runtime": {
           "bin/placeholder/Acme.BookStore.MongoDB.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Acme.BookStore.TestBase/1.0.0": {
         "type": "project",
@@ -3898,7 +3904,10 @@
         },
         "runtime": {
           "bin/placeholder/Acme.BookStore.TestBase.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -5526,7 +5535,7 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.Apple/4.3.0": {
-      "sha512": "jwjwlEL0Elv6gwoyaokRn12nv/JE+UW/DXJEbzhjCPvGbef36StnHKc9XaZD/rGWqYicrphZ7eumR/jdmNcjRg==",
+      "sha512": "DloMk88juo0OuOWr56QG7MNchmafTLYWvABy36izkrLI5VledI0rq28KGs1i9wbpeT9NPQrx/wTf8U2vazqQ3Q==",
       "type": "package",
       "path": "runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
@@ -5581,12 +5590,11 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {
-      "sha512": "Kh9W4agE0r/hK8AX1LvyQI2NrKHBL8pO0gRoDTdDb0LL6Ta1Z2OtFx3lOaAE0ZpCUc/dt9Wzs3rA7a3IsKdOVA==",
+      "sha512": "kVXCuMTrTlxq4XOOMAysuNwsXWpYeboGddNGpIgNSZmv1b6r/s/DPk0fYMB7Q5Qo4bY68o48jt4T4y5BVecbCQ==",
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
@@ -5953,7 +5961,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
+      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
@@ -8681,7 +8689,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.3.0": {
-      "sha512": "2Z5t70a2SwMsfQDp9KOclaZNyQhfIga2gppq9lIUDM1A4ohTshn4JqT7ir8bvIhXgorWKYDAr6rPzEbi/nTGKg==",
+      "sha512": "Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
@@ -11102,38 +11110,43 @@
     ]
   },
   "packageFolders": {
-    "/Users/bharaththabati/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Bharath\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bharaththabati/Projects/abpProjects/test/Acme.BookStore.MongoDB.Tests/Acme.BookStore.MongoDB.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\test\\Acme.BookStore.MongoDB.Tests\\Acme.BookStore.MongoDB.Tests.csproj",
       "projectName": "Acme.BookStore.MongoDB.Tests",
-      "projectPath": "/Users/bharaththabati/Projects/abpProjects/test/Acme.BookStore.MongoDB.Tests/Acme.BookStore.MongoDB.Tests.csproj",
-      "packagesPath": "/Users/bharaththabati/.nuget/packages/",
-      "outputPath": "/Users/bharaththabati/Projects/abpProjects/test/Acme.BookStore.MongoDB.Tests/obj/",
+      "projectPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\test\\Acme.BookStore.MongoDB.Tests\\Acme.BookStore.MongoDB.Tests.csproj",
+      "packagesPath": "C:\\Users\\Bharath\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\test\\Acme.BookStore.MongoDB.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/bharaththabati/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Bharath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/Acme.BookStore.MongoDB.csproj": {
-              "projectPath": "/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/Acme.BookStore.MongoDB.csproj"
+            "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.MongoDB\\Acme.BookStore.MongoDB.csproj": {
+              "projectPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\src\\Acme.BookStore.MongoDB\\Acme.BookStore.MongoDB.csproj"
             },
-            "/Users/bharaththabati/Projects/abpProjects/test/Acme.BookStore.TestBase/Acme.BookStore.TestBase.csproj": {
-              "projectPath": "/Users/bharaththabati/Projects/abpProjects/test/Acme.BookStore.TestBase/Acme.BookStore.TestBase.csproj"
+            "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\test\\Acme.BookStore.TestBase\\Acme.BookStore.TestBase.csproj": {
+              "projectPath": "C:\\Users\\Bharath\\Source\\Repos\\bharathbkt\\acme.BookStore\\test\\Acme.BookStore.TestBase\\Acme.BookStore.TestBase.csproj"
             }
           }
         }
@@ -11166,12 +11179,21 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

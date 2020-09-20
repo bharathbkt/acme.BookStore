@@ -12,3 +12,17 @@
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.csproj.CopyComplete
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.dll
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\bin\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.deps.json
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\bin\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\bin\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.Shared.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.Shared.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\obj\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.csprojAssemblyReference.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\obj\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.AssemblyInfoInputs.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\obj\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.AssemblyInfo.cs
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\obj\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\obj\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.csproj.CopyComplete
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\obj\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.MongoDB\obj\Debug\netcoreapp3.1\Acme.BookStore.MongoDB.pdb

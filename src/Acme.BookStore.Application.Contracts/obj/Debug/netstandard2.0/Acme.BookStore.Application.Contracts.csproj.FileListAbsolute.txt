@@ -10,3 +10,15 @@
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.csproj.CopyComplete
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.dll
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.deps.json
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.csprojAssemblyReference.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.AssemblyInfo.cs
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.csproj.CopyComplete
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.pdb

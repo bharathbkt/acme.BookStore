@@ -8,3 +8,13 @@
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.dll
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.deps.json
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.csprojAssemblyReference.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.EmbeddedFilesManifest.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.AssemblyInfo.cs
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb

@@ -10,3 +10,15 @@
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.csproj.CopyComplete
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.dll
 /Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.deps.json
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.Shared.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\bin\Debug\netcoreapp3.1\Acme.BookStore.Domain.Shared.pdb
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.csprojAssemblyReference.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.AssemblyInfo.cs
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.csproj.CopyComplete
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.dll
+C:\Users\Bharath\Source\Repos\bharathbkt\acme.BookStore\src\Acme.BookStore.Domain\obj\Debug\netcoreapp3.1\Acme.BookStore.Domain.pdb
