@@ -1,0 +1,12 @@
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/bin/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.deps.json
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/bin/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/bin/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.pdb
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/bin/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/bin/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.pdb
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.csprojAssemblyReference.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.AssemblyInfoInputs.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.AssemblyInfo.cs
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.csproj.CoreCompileInputs.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.csproj.CopyComplete
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Application.Contracts/obj/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.pdb

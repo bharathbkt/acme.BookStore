@@ -1,0 +1,12 @@
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/bin/Debug/netcoreapp3.1/Acme.BookStore.Domain.deps.json
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/bin/Debug/netcoreapp3.1/Acme.BookStore.Domain.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/bin/Debug/netcoreapp3.1/Acme.BookStore.Domain.pdb
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/bin/Debug/netcoreapp3.1/Acme.BookStore.Domain.Shared.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/bin/Debug/netcoreapp3.1/Acme.BookStore.Domain.Shared.pdb
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.csprojAssemblyReference.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.AssemblyInfoInputs.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.AssemblyInfo.cs
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.csproj.CoreCompileInputs.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.csproj.CopyComplete
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain/obj/Debug/netcoreapp3.1/Acme.BookStore.Domain.pdb

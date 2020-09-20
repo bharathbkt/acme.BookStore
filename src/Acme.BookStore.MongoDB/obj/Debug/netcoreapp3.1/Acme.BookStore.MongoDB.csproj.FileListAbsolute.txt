@@ -1,0 +1,14 @@
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/bin/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.deps.json
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/bin/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/bin/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.pdb
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/bin/Debug/netcoreapp3.1/Acme.BookStore.Domain.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/bin/Debug/netcoreapp3.1/Acme.BookStore.Domain.Shared.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/bin/Debug/netcoreapp3.1/Acme.BookStore.Domain.pdb
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/bin/Debug/netcoreapp3.1/Acme.BookStore.Domain.Shared.pdb
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.csprojAssemblyReference.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.AssemblyInfoInputs.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.AssemblyInfo.cs
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.csproj.CoreCompileInputs.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.csproj.CopyComplete
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.MongoDB/obj/Debug/netcoreapp3.1/Acme.BookStore.MongoDB.pdb

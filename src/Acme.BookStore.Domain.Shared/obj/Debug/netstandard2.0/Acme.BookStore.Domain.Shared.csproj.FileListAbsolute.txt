@@ -1,0 +1,10 @@
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/bin/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.deps.json
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/bin/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/bin/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.pdb
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.csprojAssemblyReference.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.EmbeddedFilesManifest.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.AssemblyInfoInputs.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.AssemblyInfo.cs
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.dll
+/Users/bharaththabati/Projects/abpProjects/src/Acme.BookStore.Domain.Shared/obj/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.pdb
